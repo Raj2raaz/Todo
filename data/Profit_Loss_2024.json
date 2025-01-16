@@ -1,0 +1,206 @@
+[
+    {
+        "Month": "January",
+        "Revenue": {
+            "Sales Revenue": 120000,
+            "Other Income": 5000,
+            "Total Revenue": 125000
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 60000,
+            "Salaries and Wages": 20000,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 5000,
+            "Miscellaneous Expenses": 3000,
+            "Total Expenses": 95000
+        },
+        "Net Profit": 30000
+    },
+    {
+        "Month": "February",
+        "Revenue": {
+            "Sales Revenue": 122000,
+            "Other Income": 5300,
+            "Total Revenue": 127300
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 61000,
+            "Salaries and Wages": 20800,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 5200,
+            "Miscellaneous Expenses": 3100,
+            "Total Expenses": 97100
+        },
+        "Net Profit": 30200
+    },
+    {
+        "Month": "March",
+        "Revenue": {
+            "Sales Revenue": 124000,
+            "Other Income": 5600,
+            "Total Revenue": 129600
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 62000,
+            "Salaries and Wages": 21600,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 5400,
+            "Miscellaneous Expenses": 3200,
+            "Total Expenses": 99200
+        },
+        "Net Profit": 30400
+    },
+    {
+        "Month": "April",
+        "Revenue": {
+            "Sales Revenue": 126000,
+            "Other Income": 5900,
+            "Total Revenue": 131900
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 63000,
+            "Salaries and Wages": 22400,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 5600,
+            "Miscellaneous Expenses": 3300,
+            "Total Expenses": 101300
+        },
+        "Net Profit": 30600
+    },
+    {
+        "Month": "May",
+        "Revenue": {
+            "Sales Revenue": 128000,
+            "Other Income": 6200,
+            "Total Revenue": 134200
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 64000,
+            "Salaries and Wages": 23200,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 5800,
+            "Miscellaneous Expenses": 3400,
+            "Total Expenses": 103400
+        },
+        "Net Profit": 30800
+    },
+    {
+        "Month": "June",
+        "Revenue": {
+            "Sales Revenue": 130000,
+            "Other Income": 6500,
+            "Total Revenue": 136500
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 65000,
+            "Salaries and Wages": 24000,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 6000,
+            "Miscellaneous Expenses": 3500,
+            "Total Expenses": 105500
+        },
+        "Net Profit": 31000
+    },
+    {
+        "Month": "July",
+        "Revenue": {
+            "Sales Revenue": 132000,
+            "Other Income": 6800,
+            "Total Revenue": 138800
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 66000,
+            "Salaries and Wages": 24800,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 6200,
+            "Miscellaneous Expenses": 3600,
+            "Total Expenses": 107600
+        },
+        "Net Profit": 31200
+    },
+    {
+        "Month": "August",
+        "Revenue": {
+            "Sales Revenue": 134000,
+            "Other Income": 7100,
+            "Total Revenue": 141100
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 67000,
+            "Salaries and Wages": 25600,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 6400,
+            "Miscellaneous Expenses": 3700,
+            "Total Expenses": 109700
+        },
+        "Net Profit": 31400
+    },
+    {
+        "Month": "September",
+        "Revenue": {
+            "Sales Revenue": 136000,
+            "Other Income": 7400,
+            "Total Revenue": 143400
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 68000,
+            "Salaries and Wages": 26400,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 6600,
+            "Miscellaneous Expenses": 3800,
+            "Total Expenses": 111800
+        },
+        "Net Profit": 31600
+    },
+    {
+        "Month": "October",
+        "Revenue": {
+            "Sales Revenue": 138000,
+            "Other Income": 7700,
+            "Total Revenue": 145700
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 69000,
+            "Salaries and Wages": 27200,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 6800,
+            "Miscellaneous Expenses": 3900,
+            "Total Expenses": 113900
+        },
+        "Net Profit": 31800
+    },
+    {
+        "Month": "November",
+        "Revenue": {
+            "Sales Revenue": 140000,
+            "Other Income": 8000,
+            "Total Revenue": 148000
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 70000,
+            "Salaries and Wages": 28000,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 7000,
+            "Miscellaneous Expenses": 4000,
+            "Total Expenses": 116000
+        },
+        "Net Profit": 32000
+    },
+    {
+        "Month": "December",
+        "Revenue": {
+            "Sales Revenue": 142000,
+            "Other Income": 8300,
+            "Total Revenue": 150300
+        },
+        "Expenses": {
+            "Cost of Goods Sold": 71000,
+            "Salaries and Wages": 28800,
+            "Rent and Utilities": 7000,
+            "Marketing and Advertising": 7200,
+            "Miscellaneous Expenses": 4100,
+            "Total Expenses": 118100
+        },
+        "Net Profit": 32200
+    }
+]

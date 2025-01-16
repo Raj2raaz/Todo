@@ -1,0 +1,254 @@
+[
+    {
+        "Month": "January",
+        "Assets": {
+            "Cash and Cash Equivalents": 50000,
+            "Accounts Receivable": 30000,
+            "Inventory": 20000,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 250000
+        },
+        "Liabilities": {
+            "Accounts Payable": 15000,
+            "Accrued Expenses": 10000,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 75000
+        },
+        "Equity": {
+            "Owner's Equity": 175000,
+            "Retained Earnings": 10000,
+            "Total Equity": 185000
+        }
+    },
+    {
+        "Month": "February",
+        "Assets": {
+            "Cash and Cash Equivalents": 51000,
+            "Accounts Receivable": 30500,
+            "Inventory": 20700,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 252200
+        },
+        "Liabilities": {
+            "Accounts Payable": 15800,
+            "Accrued Expenses": 10400,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 76200
+        },
+        "Equity": {
+            "Owner's Equity": 176000,
+            "Retained Earnings": 11000,
+            "Total Equity": 187000
+        }
+    },
+    {
+        "Month": "March",
+        "Assets": {
+            "Cash and Cash Equivalents": 52000,
+            "Accounts Receivable": 31000,
+            "Inventory": 21400,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 254400
+        },
+        "Liabilities": {
+            "Accounts Payable": 16600,
+            "Accrued Expenses": 10800,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 77400
+        },
+        "Equity": {
+            "Owner's Equity": 177000,
+            "Retained Earnings": 12000,
+            "Total Equity": 189000
+        }
+    },
+    {
+        "Month": "April",
+        "Assets": {
+            "Cash and Cash Equivalents": 53000,
+            "Accounts Receivable": 31500,
+            "Inventory": 22100,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 256600
+        },
+        "Liabilities": {
+            "Accounts Payable": 17400,
+            "Accrued Expenses": 11200,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 78600
+        },
+        "Equity": {
+            "Owner's Equity": 178000,
+            "Retained Earnings": 13000,
+            "Total Equity": 191000
+        }
+    },
+    {
+        "Month": "May",
+        "Assets": {
+            "Cash and Cash Equivalents": 54000,
+            "Accounts Receivable": 32000,
+            "Inventory": 22800,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 258800
+        },
+        "Liabilities": {
+            "Accounts Payable": 18200,
+            "Accrued Expenses": 11600,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 79800
+        },
+        "Equity": {
+            "Owner's Equity": 179000,
+            "Retained Earnings": 14000,
+            "Total Equity": 193000
+        }
+    },
+    {
+        "Month": "June",
+        "Assets": {
+            "Cash and Cash Equivalents": 55000,
+            "Accounts Receivable": 32500,
+            "Inventory": 23500,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 261000
+        },
+        "Liabilities": {
+            "Accounts Payable": 19000,
+            "Accrued Expenses": 12000,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 81000
+        },
+        "Equity": {
+            "Owner's Equity": 180000,
+            "Retained Earnings": 15000,
+            "Total Equity": 195000
+        }
+    },
+    {
+        "Month": "July",
+        "Assets": {
+            "Cash and Cash Equivalents": 56000,
+            "Accounts Receivable": 33000,
+            "Inventory": 24200,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 263200
+        },
+        "Liabilities": {
+            "Accounts Payable": 19800,
+            "Accrued Expenses": 12400,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 82200
+        },
+        "Equity": {
+            "Owner's Equity": 181000,
+            "Retained Earnings": 16000,
+            "Total Equity": 197000
+        }
+    },
+    {
+        "Month": "August",
+        "Assets": {
+            "Cash and Cash Equivalents": 57000,
+            "Accounts Receivable": 33500,
+            "Inventory": 24900,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 265400
+        },
+        "Liabilities": {
+            "Accounts Payable": 20600,
+            "Accrued Expenses": 12800,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 83400
+        },
+        "Equity": {
+            "Owner's Equity": 182000,
+            "Retained Earnings": 17000,
+            "Total Equity": 199000
+        }
+    },
+    {
+        "Month": "September",
+        "Assets": {
+            "Cash and Cash Equivalents": 58000,
+            "Accounts Receivable": 34000,
+            "Inventory": 25600,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 267600
+        },
+        "Liabilities": {
+            "Accounts Payable": 21400,
+            "Accrued Expenses": 13200,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 84600
+        },
+        "Equity": {
+            "Owner's Equity": 183000,
+            "Retained Earnings": 18000,
+            "Total Equity": 201000
+        }
+    },
+    {
+        "Month": "October",
+        "Assets": {
+            "Cash and Cash Equivalents": 59000,
+            "Accounts Receivable": 34500,
+            "Inventory": 26300,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 269800
+        },
+        "Liabilities": {
+            "Accounts Payable": 22200,
+            "Accrued Expenses": 13600,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 85800
+        },
+        "Equity": {
+            "Owner's Equity": 184000,
+            "Retained Earnings": 19000,
+            "Total Equity": 203000
+        }
+    },
+    {
+        "Month": "November",
+        "Assets": {
+            "Cash and Cash Equivalents": 60000,
+            "Accounts Receivable": 35000,
+            "Inventory": 27000,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 272000
+        },
+        "Liabilities": {
+            "Accounts Payable": 23000,
+            "Accrued Expenses": 14000,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 87000
+        },
+        "Equity": {
+            "Owner's Equity": 185000,
+            "Retained Earnings": 20000,
+            "Total Equity": 205000
+        }
+    },
+    {
+        "Month": "December",
+        "Assets": {
+            "Cash and Cash Equivalents": 61000,
+            "Accounts Receivable": 35500,
+            "Inventory": 27700,
+            "Property, Plant, and Equipment": 150000,
+            "Total Assets": 274200
+        },
+        "Liabilities": {
+            "Accounts Payable": 23800,
+            "Accrued Expenses": 14400,
+            "Long-term Debt": 50000,
+            "Total Liabilities": 88200
+        },
+        "Equity": {
+            "Owner's Equity": 186000,
+            "Retained Earnings": 21000,
+            "Total Equity": 207000
+        }
+    }
+]

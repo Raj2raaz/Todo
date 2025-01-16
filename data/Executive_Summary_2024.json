@@ -1,0 +1,218 @@
+[
+    {
+        "Month": "January",
+        "Key Metrics": {
+            "Revenue Growth (%)": 5.0,
+            "Expense Growth (%)": 3.0,
+            "Net Profit Margin (%)": 24.0
+        },
+        "Highlights": {
+            "Major Wins": "Closed 3 large deals",
+            "Operational Challenges": "Higher logistics costs",
+            "New Initiatives": "Launched new marketing campaign"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "February",
+        "Key Metrics": {
+            "Revenue Growth (%)": 5.5,
+            "Expense Growth (%)": 3.3,
+            "Net Profit Margin (%)": 23.72
+        },
+        "Highlights": {
+            "Major Wins": "Gained 2 key clients",
+            "Operational Challenges": "Delayed payments from clients",
+            "New Initiatives": "Improved customer support system"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "March",
+        "Key Metrics": {
+            "Revenue Growth (%)": 6.0,
+            "Expense Growth (%)": 3.6,
+            "Net Profit Margin (%)": 23.46
+        },
+        "Highlights": {
+            "Major Wins": "Gained 2 key clients",
+            "Operational Challenges": "Higher logistics costs",
+            "New Initiatives": "Improved customer support system"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "April",
+        "Key Metrics": {
+            "Revenue Growth (%)": 6.5,
+            "Expense Growth (%)": 3.9,
+            "Net Profit Margin (%)": 23.2
+        },
+        "Highlights": {
+            "Major Wins": "Closed 3 large deals",
+            "Operational Challenges": "Delayed payments from clients",
+            "New Initiatives": "Improved customer support system"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "May",
+        "Key Metrics": {
+            "Revenue Growth (%)": 7.0,
+            "Expense Growth (%)": 4.2,
+            "Net Profit Margin (%)": 22.95
+        },
+        "Highlights": {
+            "Major Wins": "Gained 2 key clients",
+            "Operational Challenges": "Higher logistics costs",
+            "New Initiatives": "Launched new marketing campaign"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "June",
+        "Key Metrics": {
+            "Revenue Growth (%)": 7.5,
+            "Expense Growth (%)": 4.5,
+            "Net Profit Margin (%)": 22.71
+        },
+        "Highlights": {
+            "Major Wins": "Gained 2 key clients",
+            "Operational Challenges": "Delayed payments from clients",
+            "New Initiatives": "Improved customer support system"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "July",
+        "Key Metrics": {
+            "Revenue Growth (%)": 8.0,
+            "Expense Growth (%)": 4.8,
+            "Net Profit Margin (%)": 22.48
+        },
+        "Highlights": {
+            "Major Wins": "Closed 3 large deals",
+            "Operational Challenges": "Higher logistics costs",
+            "New Initiatives": "Improved customer support system"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "August",
+        "Key Metrics": {
+            "Revenue Growth (%)": 8.5,
+            "Expense Growth (%)": 5.1,
+            "Net Profit Margin (%)": 22.25
+        },
+        "Highlights": {
+            "Major Wins": "Gained 2 key clients",
+            "Operational Challenges": "Delayed payments from clients",
+            "New Initiatives": "Improved customer support system"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "September",
+        "Key Metrics": {
+            "Revenue Growth (%)": 9.0,
+            "Expense Growth (%)": 5.4,
+            "Net Profit Margin (%)": 22.04
+        },
+        "Highlights": {
+            "Major Wins": "Gained 2 key clients",
+            "Operational Challenges": "Higher logistics costs",
+            "New Initiatives": "Launched new marketing campaign"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "October",
+        "Key Metrics": {
+            "Revenue Growth (%)": 9.5,
+            "Expense Growth (%)": 5.7,
+            "Net Profit Margin (%)": 21.83
+        },
+        "Highlights": {
+            "Major Wins": "Closed 3 large deals",
+            "Operational Challenges": "Delayed payments from clients",
+            "New Initiatives": "Improved customer support system"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "November",
+        "Key Metrics": {
+            "Revenue Growth (%)": 10.0,
+            "Expense Growth (%)": 6.0,
+            "Net Profit Margin (%)": 21.62
+        },
+        "Highlights": {
+            "Major Wins": "Gained 2 key clients",
+            "Operational Challenges": "Higher logistics costs",
+            "New Initiatives": "Improved customer support system"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    },
+    {
+        "Month": "December",
+        "Key Metrics": {
+            "Revenue Growth (%)": 10.5,
+            "Expense Growth (%)": 6.3,
+            "Net Profit Margin (%)": 21.42
+        },
+        "Highlights": {
+            "Major Wins": "Gained 2 key clients",
+            "Operational Challenges": "Delayed payments from clients",
+            "New Initiatives": "Improved customer support system"
+        },
+        "Action Items": [
+            "Focus on reducing overhead costs",
+            "Expand market reach through digital channels",
+            "Strengthen client payment terms"
+        ]
+    }
+]
